@@ -1,0 +1,5 @@
+name: ZenPacks.zenoss.GoogleCloud
+
+device_classes:
+  /Devices/Gcloud/Gaccount:
+    remove: true
